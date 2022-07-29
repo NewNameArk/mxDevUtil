@@ -32,6 +32,10 @@
     "rollup": "^2.77.2"
   },
   "publishConfig": {
-		"access": "public"
-	}
+    "access": "public"
+  },
+  "dependencies": {
+    "await-to-js": "^3.0.0",
+    "omit.js": "^2.0.2"
+  }
 }
