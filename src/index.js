@@ -8,6 +8,7 @@ import {
 import other from './other/index'
 const to = other.to
 const omit = other.omit
+const arrify = other.arrify
 
 export {
   formateTime,
@@ -15,5 +16,6 @@ export {
   calcTimes,
   calcSeconds,
   to,
-  omit
+  omit,
+  arrify
 }
